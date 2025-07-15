@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Manashi! 👋</h1>
+<h1 align="center">Hey there! I'm Mashi! 👋</h1>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/Lqz1Cq8qRnJZK/giphy.gif" width="300" />
@@ -30,5 +30,6 @@
 - 🖥️ [Bann](https://bann-ltyr.vercel.app) - Course selling platform with MERN stack and Recoil for state management.
   
 - 🌐 [Emoticare](https://emoticare.vercel.app) - Built in another Hackathon, didn't had much time, I don't know where the backend came from. I did built the frontend, ofcourse CHATGPT was used .😑
+- ❤️[KindMind](https://kind-mind-lac.vercel.app) - I like the landing page 🤷‍♀️.
 
 
